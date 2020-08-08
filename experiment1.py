@@ -3,9 +3,10 @@ from OpenGL.GLU import *
 from OpenGL.GLUT import *
 print('package Import Successful')
 
+#height and width of screen
 w, h = 500, 500
 
-
+# functon of horizontal line
 def showScreenHorizontal():
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
     glLoadIdentity()
@@ -16,6 +17,7 @@ def showScreenHorizontal():
     glEnd()
     glutSwapBuffers()
 
+# functon of vertical line
 def showScreenVertical():
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
     glLoadIdentity()
@@ -26,6 +28,7 @@ def showScreenVertical():
     glEnd()
     glutSwapBuffers()
 
+# functon of diagonal line
 def showScreenDiagonal():
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
     glLoadIdentity()
