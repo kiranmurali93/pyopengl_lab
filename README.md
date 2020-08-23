@@ -10,4 +10,6 @@
 
    b)experiment1 with points - option based program that draws Horizontal, Vertical and Diagonal Lines based on User Inputs
    
-3. Implemention of DDA algorithm
+3. ddaAlgo - Implemention of DDA algorithm
+
+4. BresenhamAlgo - Implemention of Bresenham algorithm
