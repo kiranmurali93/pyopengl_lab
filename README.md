@@ -2,14 +2,17 @@
 
 ## Installation Refer [PyopenGL Installation](https://kiranmurali93.github.io/blog/post/pyopengl/)
 
-## PyOpenGL lab experiments 
+# PyOpenGL lab experiments 
 
 1. Origin - plotes a point
 
-2. a)experiment1 with lines - option based program that draws Horizontal, Vertical and Diagonal Lines based on User Inputs 
+2. a)[experiment1 with lines](https://github.com/kiranmurali93/pyopengl_lab/blob/master/experiment1usinglines.py) - option based program that draws Horizontal, Vertical and Diagonal Lines based on User Inputs 
 
-   b)experiment1 with points - option based program that draws Horizontal, Vertical and Diagonal Lines based on User Inputs
+   b)[experiment1 with points](https://github.com/kiranmurali93/pyopengl_lab/blob/master/experiment1_with_points.py) - option based program that draws Horizontal, Vertical and Diagonal Lines based on User Inputs
    
-3. ddaAlgo - Implemention of DDA algorithm
+## Line Drawing Algo
+3. [ddaAlgo](https://github.com/kiranmurali93/pyopengl_lab/blob/master/ddaAlgo.py) - Implemention of DDA algorithm
 
-4. BresenhamAlgo - Implemention of Bresenham algorithm
+4. [BresenhamAlgo](https://github.com/kiranmurali93/pyopengl_lab/blob/master/BresenhamAlgo.py) - Implemention of Bresenham algorithm
+
+5. [midpoint_linealgo](https://github.com/kiranmurali93/pyopengl_lab/blob/master/midpoint_linealgo.py) - Mid-Point Line Drawing algorithm
