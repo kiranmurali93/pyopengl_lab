@@ -17,5 +17,7 @@
 
 5. [midpoint_linealgo](https://github.com/kiranmurali93/pyopengl_lab/blob/master/midpoint_linealgo.py) - Mid-Point Line Drawing algorithm
 
-6. [circle_drawing_algo.py](https://github.com/kiranmurali93/pyopengl_lab/blob/master/circle_drawing_algo.py) - circle Drawing algorithm
+## Circle Drawing Algo
+
+6. [circle_drawing_algo.py](https://github.com/kiranmurali93/pyopengl_lab/blob/master/circle_drawing_algo.py) - circle Drawing algorithm (midpoit, polar, non-polar)
 
