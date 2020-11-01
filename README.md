@@ -16,3 +16,6 @@
 4. [BresenhamAlgo](https://github.com/kiranmurali93/pyopengl_lab/blob/master/BresenhamAlgo.py) - Implemention of Bresenham algorithm
 
 5. [midpoint_linealgo](https://github.com/kiranmurali93/pyopengl_lab/blob/master/midpoint_linealgo.py) - Mid-Point Line Drawing algorithm
+
+6. [circle_drawing_algo.py](https://github.com/kiranmurali93/pyopengl_lab/blob/master/circle_drawing_algo.py) - circle Drawing algorithm
+
