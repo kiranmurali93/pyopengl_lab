@@ -47,15 +47,12 @@ def readInput():
 # a. polar ellipse drawing algorithm
 def polarEllipse(x_centre,y_centre,x_radius,y_radius):
     theta = 0
-    theta_end = math.pi/2
+    theta_end = 2*math.pi
     while(theta <= theta_end):
         x = x_radius*(math.cos(theta)) + x_centre
         y = y_radius*(math.sin(theta)) + y_centre
         setPixel(ROUND(x + x_centre),ROUND(y + y_centre))
-        setPixel(ROUND(-x + x_centre), ROUND(y + y_centre))
-        setPixel(ROUND(-x + x_centre), ROUND(-y + y_centre))
-        setPixel(ROUND(x + x_centre), ROUND(-y + y_centre))
-        theta += 0.01
+        theta += 0.001
 
 # b.non polar ellipse drawing algorithm
 def nonpolarEllipse(x_centre,y_centre,x_radius,y_radius):
