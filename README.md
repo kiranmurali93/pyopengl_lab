@@ -24,3 +24,7 @@
 ## Ellpise Drawing Algo
 
 7. [Ellipse_drawing_algo.py](https://github.com/kiranmurali93/pyopengl_lab/blob/master/ellipse_algo.py) - Ellipse drawing algorithm (Polar, non polar)
+
+## 2D Transformation of a triangle
+
+8. [2dTransformation.py](https://github.com/kiranmurali93/pyopengl_lab/blob/master/2dTransformation.py)
