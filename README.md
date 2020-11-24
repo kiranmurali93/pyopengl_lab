@@ -28,3 +28,6 @@
 ## 2D Transformation of a triangle
 
 8. [2dTransformation.py](https://github.com/kiranmurali93/pyopengl_lab/blob/master/2dTransformation.py)
+
+## Cohen Sutherland Line Clipping algorithm, Sutherland Hodgeman polygon clipping
+9. [Clipping algorithms.py](https://github.com/kiranmurali93/pyopengl_lab/blob/master/Clipping%20algorithms.py)
